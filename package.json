@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "prettier": "2.1.2",
-    "tailwindcss": "1.4.6"
+    "tailwindcss": "2.2.4"
   },
   "repository": {
     "type": "git",
