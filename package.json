@@ -23,7 +23,7 @@
     "shopify-buy": "2.11.0"
   },
   "devDependencies": {
-    "prettier": "2.1.2",
+    "prettier": "2.3.2",
     "tailwindcss": "1.4.6"
   },
   "repository": {
